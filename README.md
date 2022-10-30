@@ -1,4 +1,4 @@
-Kürşad Ali İNOĞLU
+# Kürşad Ali İNOĞLU
 
 
 # Merge Sort 
