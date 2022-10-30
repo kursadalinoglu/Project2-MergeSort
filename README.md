@@ -1,15 +1,15 @@
 Kürşad Ali İNOĞLU
 
 
-Merge Sort 
+# Merge Sort 
 
 [16,21,11,8,12,22] 
 
-1-Write the stages of the array according to sort type
+## 1-Write the stages of the array according to sort type
 
-2-Write Big-O Notation
+## 2-Write Big-O Notation
 
-~ Solution of first question:
+### ~ Solution of first question:
 
 1.step: [16,21,11,8,12,22] 
 
@@ -25,7 +25,7 @@ Merge Sort
 
 7.step: [8,11,12,16,21,22] 
 
-~ Solution of second question:
+## ~ Solution of second question:
 
 O(nlogn)
 
